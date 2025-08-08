@@ -48,7 +48,7 @@ GPT-5 系列包含三种模型，各有侧重：
 ## 对接指南（基于急速 API）
 ### 1. 准备工作
 - 获取急速 API 密钥（访问 [急速 API 官网](https://api.jisuai.top/) 获取）
-- 确保网络可访问急速 API 端点：`https://api.jisuai.top`
+- BaseURL：`https://api.jisuai.top`
 
 
 ### 2. 两种对接方式
